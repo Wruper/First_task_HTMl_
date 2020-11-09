@@ -1,0 +1,254 @@
+
+  #foo_black {
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background: #141c3a;
+  }
+
+  #faa_white {
+    position: relative;
+    float: right;
+    width: 100px;
+    height: 20px;
+    margin: 5px;
+    background: #fdfdfd;
+    text-align: center;
+  }
+
+  #faa_blue {
+    position: relative;
+    float: right;
+    width: 100px;
+    height: 20px;
+    margin: 5px;
+    background: #761fe7;
+    color: #fdfdfd;
+    font-size: 16px;
+  }
+
+#login{
+    width: 1000px;
+    height: 900px;
+    background: #141c3a;
+    clear: both;
+}
+
+#background{
+    background: #f1f3fe;
+    clear: both;
+}
+
+#log_in_page{
+    position: absolute;
+    float: right;
+    top: 250px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 33px;
+    vertical-align:middle;
+}
+
+#log_in_page_p{
+    position: absolute;
+    float: right;
+    top: 310px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 12px;
+    vertical-align:middle;
+}
+
+#log_in_page_form{
+    position: absolute;
+    float: right;
+    top: 340px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 12px;
+    vertical-align:middle;
+}
+
+#log_in_page_p1{
+    position: absolute;
+    float: right;
+    top: 370px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 12px;
+    vertical-align:middle;
+}
+
+#log_in_page_form1{
+    position: absolute;
+    float: right;
+    top: 400px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 12px;
+    vertical-align:middle;
+}
+
+#log_in_page_button{
+    position: absolute;
+    float: right;
+    top: 430px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 12px;
+    width: 165px;
+    height: 30px;
+    background-color:#761fe7;
+    vertical-align:middle;
+}
+
+#log_in_page_p2{
+    position: absolute;
+    float: right;
+    top: 460px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 12px;
+    vertical-align:middle;
+}
+
+#log_in_page_p3{
+    position: absolute;
+    float: right;
+    top: 490px;
+    left: 1200px;
+    font-weight: bold;
+    font-size: 18px;
+    vertical-align:middle;
+}
+
+#logo1{
+    position: absolute;
+    float: right;
+    width: 50px;
+    height: 50px;
+    left: 1190px;
+    margin: 5px;
+    top: 540px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background-color: white;
+    content: url(https://image.flaticon.com/icons/png/512/61/61109.png);
+}
+
+#logo2{
+    position: absolute;
+    float: right;
+    width: 50px;
+    height: 50px;
+    left: 1260px;
+    margin: 5px;
+    top: 540px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background-color: white;
+    content: url(data:image/png;base64,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);
+}
+
+#logo3{
+    position: absolute;
+    float: right;
+    width: 50px;
+    height: 50px;
+    left: 1330px;
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    top: 540px;
+    background-color: white;
+    content: url(https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png);
+}
+
+#logo4{
+    position: absolute;
+    float: right;
+    width: 50px;
+    height: 50px;
+    left: 1400px;
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    top: 540px;
+    background-color: white;
+    content: url(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png);
+}
+
+#info_table{
+    background-color:#761fe7;
+    clear: both;
+}
+
+#info_text{
+    position: absolute;
+    top: 1050px;
+    left: 200px;
+    font-weight: bold;
+    font-size: 30px;
+    vertical-align:middle;
+}
+
+#info_text1{
+    position: absolute;
+    top: 1080px;
+    left: 200px;
+    font-weight: bold;
+    font-size: 30px;
+    vertical-align:middle;
+}
+
+#info_text2{
+    position: absolute;
+    top: 1080px;
+    left: 280px;
+    font-weight: bold;
+    font-size: 30px;
+    vertical-align:middle;
+    color: orange;
+}
+
+#info_text3{
+    position: absolute;
+    top: 1150px;
+    left: 200px;
+    font-weight: bold;
+    font-size: 16px;
+    vertical-align:middle;
+}
+
+#info_text4{
+    position: absolute;
+    top: 1170px;
+    left: 200px;
+    font-weight: bold;
+    font-size: 16px;
+    vertical-align:middle;
+}
+
+#poga{
+    position:absolute;
+    float: left;
+    top: 1220px;
+    left: 220px;
+    width: 150px;
+    height: 50px;
+    background: orange;
+    border-radius: 100px / 80px;
+    text-align: right;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+#poga_p{
+    position: absolute;
+    font-weight: bold;
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+}
+
+
